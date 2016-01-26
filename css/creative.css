@@ -88,6 +88,7 @@ aside {
     width: 100px;
     height: auto;
     margin-left: 30px;
+    padding: 0px;
     
 }
 .navbar-default .navbar-header .navbar-brand {
